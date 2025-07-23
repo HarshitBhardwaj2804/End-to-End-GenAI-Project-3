@@ -1,0 +1,15 @@
+langchain
+ipykernel
+python-dotenv
+langchain_community
+pypdf
+sentence_transformers
+langchain_huggingface
+faiss-cpu
+streamlit   
+langchain_groq
+langchain_chroma
+bs4
+arxiv
+wikipedia
+duckduckgo-search
